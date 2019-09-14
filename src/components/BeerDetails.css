@@ -1,0 +1,12 @@
+.beer-image {
+    width: 100px !important;
+    height: 300px !important;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about {
+    height: 160px !important;
+    margin-top: 20px;
+}
